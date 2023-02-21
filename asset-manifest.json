@@ -1,15 +1,15 @@
 {
-  "main.css": "/1-introduccion/static/css/main.06a80570.chunk.css",
-  "main.js": "/1-introduccion/static/js/main.a94732d3.chunk.js",
-  "main.js.map": "/1-introduccion/static/js/main.a94732d3.chunk.js.map",
-  "runtime~main.js": "/1-introduccion/static/js/runtime~main.97c04111.js",
-  "runtime~main.js.map": "/1-introduccion/static/js/runtime~main.97c04111.js.map",
-  "static/js/2.b1e17e5c.chunk.js": "/1-introduccion/static/js/2.b1e17e5c.chunk.js",
-  "static/js/2.b1e17e5c.chunk.js.map": "/1-introduccion/static/js/2.b1e17e5c.chunk.js.map",
-  "index.html": "/1-introduccion/index.html",
-  "precache-manifest.9863ee22a1a7ba0b89b5ddb8b8d1ddb4.js": "/1-introduccion/precache-manifest.9863ee22a1a7ba0b89b5ddb8b8d1ddb4.js",
-  "service-worker.js": "/1-introduccion/service-worker.js",
-  "static/css/main.06a80570.chunk.css.map": "/1-introduccion/static/css/main.06a80570.chunk.css.map",
-  "static/media/check.8dc45afd.svg": "/1-introduccion/static/media/check.8dc45afd.svg",
-  "static/media/delete.76c25a2b.svg": "/1-introduccion/static/media/delete.76c25a2b.svg"
+  "main.css": "/TO-DO-LIST/static/css/main.84bd8afb.chunk.css",
+  "main.js": "/TO-DO-LIST/static/js/main.c779b81d.chunk.js",
+  "main.js.map": "/TO-DO-LIST/static/js/main.c779b81d.chunk.js.map",
+  "runtime~main.js": "/TO-DO-LIST/static/js/runtime~main.a42349a7.js",
+  "runtime~main.js.map": "/TO-DO-LIST/static/js/runtime~main.a42349a7.js.map",
+  "static/js/2.b1e17e5c.chunk.js": "/TO-DO-LIST/static/js/2.b1e17e5c.chunk.js",
+  "static/js/2.b1e17e5c.chunk.js.map": "/TO-DO-LIST/static/js/2.b1e17e5c.chunk.js.map",
+  "index.html": "/TO-DO-LIST/index.html",
+  "precache-manifest.1634af57597683100c950b243473c0f7.js": "/TO-DO-LIST/precache-manifest.1634af57597683100c950b243473c0f7.js",
+  "service-worker.js": "/TO-DO-LIST/service-worker.js",
+  "static/css/main.84bd8afb.chunk.css.map": "/TO-DO-LIST/static/css/main.84bd8afb.chunk.css.map",
+  "static/media/check.8dc45afd.svg": "/TO-DO-LIST/static/media/check.8dc45afd.svg",
+  "static/media/delete.76c25a2b.svg": "/TO-DO-LIST/static/media/delete.76c25a2b.svg"
 }
