@@ -1,5 +1,5 @@
 {
-  "name": "1-introduccion",
+  "name": "TO-DO-LIST",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -40,5 +40,5 @@
   "devDependencies": {
     "gh-pages": "^4.0.0"
   },
-  "homepage":"https://jamesmontanoh.github.io/1-introduccion"
+  "homepage":"https://jamesmontanoh.github.io/TO-DO-LIST"
 }
